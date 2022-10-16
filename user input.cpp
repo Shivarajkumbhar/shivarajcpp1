@@ -10,5 +10,5 @@ cin >> y;
 sum = x + y;
 sub=x-y;
 cout << "Sum is: " << sum;
-cout << "\nSum is: " << sub;
+cout << "\nSub is: " << sub;
 }
